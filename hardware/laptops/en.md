@@ -217,3 +217,7 @@ This list should not suggest that *only* such devices listed below are compatibl
 - Toshiba Satellite L850-B218
 - Toshiba Satellite L855D
 - Toshiba Tecra A11
+
+
+### Xiaomi Mi
+- Xiaomi Mi Laptop Air 2017 i5 NVIDIA MX110
